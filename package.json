@@ -1,0 +1,16 @@
+{
+  "name": "confergo",
+  "version": "1.0.0",
+  "description": "Convert speech from one language to another.",
+  "main": "app.js",
+  "scripts": {
+     "boo": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
